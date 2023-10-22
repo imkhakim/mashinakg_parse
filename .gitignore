@@ -2,5 +2,5 @@
 .env
 env
 __pycache__
-scrapy.py
-scrap_one_car.py
+/scrapy.py
+/scrap_one_car.py
